@@ -1,0 +1,130 @@
+{
+  "courses": [
+    {
+      "CourseID": 4921,
+      "RegionName": "Colorado",
+      "AreaName": "Denver Area",
+      "CourseName": "City Park Golf Course",
+      "CityName": "Denver",
+      "CityID": 845,
+      "CountryName": "United States"
+    },
+    {
+      "CourseID": 4922,
+      "RegionName": "Colorado",
+      "AreaName": "Denver Area",
+      "CourseName": "City Park Golf Course (10th Tee)",
+      "CityName": "Denver",
+      "CityID": 845,
+      "CountryName": "United States"
+    },
+    {
+      "CourseID": 24418,
+      "RegionName": "Colorado",
+      "AreaName": "Denver Area",
+      "CourseName": "City Park Golf Course (Afternoon Back 9)",
+      "CityName": "Denver",
+      "CityID": 845,
+      "CountryName": "United States"
+    },
+    {
+      "CourseID": 4933,
+      "RegionName": "Colorado",
+      "AreaName": "Denver Area",
+      "CourseName": "Kennedy - Creek 9 Holes Only",
+      "CityName": "Denver",
+      "CityID": 845,
+      "CountryName": "United States"
+    },
+    {
+      "CourseID": 4932,
+      "RegionName": "Colorado",
+      "AreaName": "Denver Area",
+      "CourseName": "Kennedy- Babe Lind to West",
+      "CityName": "Denver",
+      "CityID": 845,
+      "CountryName": "United States"
+    },
+    {
+      "CourseID": 4934,
+      "RegionName": "Colorado",
+      "AreaName": "Denver Area",
+      "CourseName": "Kennedy- West to Babe Lind",
+      "CityName": "Denver",
+      "CityID": 845,
+      "CountryName": "United States"
+    },
+    {
+      "CourseID": 4929,
+      "RegionName": "Colorado",
+      "AreaName": "Denver Area",
+      "CourseName": "Overland Golf Course",
+      "CityName": "Denver",
+      "CityID": 845,
+      "CountryName": "United States"
+    },
+    {
+      "CourseID": 4930,
+      "RegionName": "Colorado",
+      "AreaName": "Denver Area",
+      "CourseName": "Overland Golf Course (10th Tee)",
+      "CityName": "Denver",
+      "CityID": 845,
+      "CountryName": "United States"
+    },
+    {
+      "CourseID": 4927,
+      "RegionName": "Colorado",
+      "AreaName": "Denver Area",
+      "CourseName": "Wellshire Golf Course",
+      "CityName": "Denver",
+      "CityID": 845,
+      "CountryName": "United States"
+    },
+    {
+      "CourseID": 4928,
+      "RegionName": "Colorado",
+      "AreaName": "Denver Area",
+      "CourseName": "Wellshire Golf Course (10th Tee)",
+      "CityName": "Denver",
+      "CityID": 845,
+      "CountryName": "United States"
+    },
+    {
+      "CourseID": 4923,
+      "RegionName": "Colorado",
+      "AreaName": "Denver Area",
+      "CourseName": "Willis Case Golf Course",
+      "CityName": "Denver",
+      "CityID": 845,
+      "CountryName": "United States"
+    },
+    {
+      "CourseID": 4924,
+      "RegionName": "Colorado",
+      "AreaName": "Denver Area",
+      "CourseName": "Willis Case Golf Course (10th Tee)",
+      "CityName": "Denver",
+      "CityID": 845,
+      "CountryName": "United States"
+    },
+    {
+      "CourseID": 4925,
+      "RegionName": "Colorado",
+      "AreaName": "Denver Area",
+      "CourseName": "Evergreen Golf Course",
+      "CityName": "Evergreen",
+      "CityID": 1360,
+      "CountryName": "United States"
+    },
+    {
+      "CourseID": 4926,
+      "RegionName": "Colorado",
+      "AreaName": "Denver Area",
+      "CourseName": "Evergreen Golf Course  (10th Tee)",
+      "CityName": "Evergreen",
+      "CityID": 1360,
+      "CountryName": "United States"
+    }
+  ],
+}
